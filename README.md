@@ -1,2 +1,2 @@
 # Analysis-of-Taxi-Rides-in-Chicago
-This project analyzes taxi ride data in Chicago during November 2017 to uncover patterns in ride frequency across companies and neighborhoods.
+This project analyzes taxi ride data in Chicago during November 2017 to uncover patterns in ride frequency across companies and neighborhoods. It also investigates how weather conditions, specifically rain or storms on Saturdays, affect the duration of trips from the Loop to O'Hare International Airport. The analysis combines SQL queries for data extraction and Python for data visualization and hypothesis testing.
